@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Black-capped Chickadee**
+title: Black-capped Chickadee
 ---
 Sex: unknown. (males and females are sexually monomorphic)
 
