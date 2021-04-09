@@ -7,8 +7,7 @@ Anna’s Hummingbird
 •	Average seen per day:
 •	Average seen per day (only including days with at least 1):
 •	Distinctive Traits: Both sexes are metallic green on head and back, greyish underneath with some green on sides. Males have distinct rose-pink throat and crown, and are more green underneath. Females have greyish throats with few pink spots, and are more grey underneath. 
-•	Where to look: I find hummingbirds easy to spot if you look to the tops or outer branches of deciduous trees. They are often perched out in the open. ![image](https://user-images.githubusercontent.com/74390696/114122835-f9a07380-98a5-11eb-8632-dac2902bc6b6.png)
-
+•	Where to look: I find hummingbirds easy to spot if you look to the tops or outer branches of deciduous trees. They are often perched out in the open. 
 
 [this is the link text](https://example.com)
 ![this becomes the default text](https://example.com/image.jpg)
