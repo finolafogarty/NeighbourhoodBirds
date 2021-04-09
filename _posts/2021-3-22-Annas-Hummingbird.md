@@ -5,7 +5,7 @@ layout: post
 
 Sex: male. (Note rose-pink throat. Females have a grayish throat with some rose-pink spotting. )
 
-Average seen per day:
+Average seen per day: __
 
 Average seen per day (only including days with at least 1):
 
