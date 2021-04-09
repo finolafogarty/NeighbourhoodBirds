@@ -1,6 +1,6 @@
 ---
-title: **Anna’s Hummingbird**
 layout: post
+title: **Anna’s Hummingbird**
 ---
 
 Sex: male. (Note rose-pink throat. Females have a grayish throat with some rose-pink spotting. )
