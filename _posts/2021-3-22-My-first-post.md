@@ -2,7 +2,7 @@
 title: Kitsilano Neighbourhood Birds
 layout: post
 ---
-Anna’s Hummingbird
+**Anna’s Hummingbird**
 
 Sex: male. (Note rose-pink throat. Females have a grayish throat with some rose-pink spotting. )
 
