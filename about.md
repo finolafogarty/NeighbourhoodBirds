@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Thanks for checking out my website! 
+Thanks for checking out my website, I hope you like the birds and learned something. Now get outside!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+### Email me at
 
 [fogartyfinola@gmail.com](mailto:fogartyfinola@gmail.com)
