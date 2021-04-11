@@ -1,1 +1,1 @@
-![_config.yml]({{ site.baseurl }}/images/home2.jpg)
+![_config.yml]({{ site.baseurl }}/images/home3.jpg)
