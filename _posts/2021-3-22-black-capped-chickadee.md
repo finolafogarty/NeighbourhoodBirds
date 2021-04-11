@@ -12,4 +12,4 @@ Distinctive Traits:
 
 Where to look: I commonly see Black-capped chickadees between the base and middle of big maple trees in Kitsilano, close to the trunk of the tree. They also frequent the tops of cherry blossom trees and other smaller deciduous trees along the street. 
 
-![_config.yml]({{ site.baseurl }}/images/black_capped_chickadee.jpg)
+![_config.yml]({{ site.baseurl }}/images/black_chickadee2.jpg)
