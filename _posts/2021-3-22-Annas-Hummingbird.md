@@ -15,5 +15,4 @@ Where to look: I find hummingbirds easy to spot if you look to the tops or outer
 
 ![_config.yml]({{ site.baseurl }}/images/hummingbird2.jpg)
 
-[this is the link text](https://example.com)
-![this becomes the default text](https://example.com/image.jpg)
+![_config.yml]({{ site.baseurl }}/images/hummingbird_pic.jpg)
