@@ -13,7 +13,7 @@ Distinctive Traits: Both sexes are metallic green on head and back, greyish unde
 
 Where to look: I find hummingbirds easy to spot if you look to the tops or outer branches of deciduous trees. They are often perched out in the open. 
 
-![_config.yml]({{ site.baseurl }}/images/annas_hummingbird.jpg)
+![_config.yml]({{ site.baseurl }}/images/hummingbird2.jpg)
 
 [this is the link text](https://example.com)
 ![this becomes the default text](https://example.com/image.jpg)
