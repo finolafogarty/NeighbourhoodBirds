@@ -1,4 +1,4 @@
-Here are some Some failed attempts at bird photography:
+Here are some some failed attempts at bird photography:
 
 Headless songsparrow:
 ![_config.yml]({{ site.baseurl }}/images/fail1.jpg)
