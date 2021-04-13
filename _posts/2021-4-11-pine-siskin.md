@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Red-breasted Nuthatch
+title: Pine Siskin
 ---
 
-![_config.yml]({{ site.baseurl }}/images/nuthatch2.jpg)
+![_config.yml]({{ site.baseurl }}/images/siskin2.jpg)
