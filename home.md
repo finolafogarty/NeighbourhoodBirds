@@ -1,4 +1,4 @@
-Infographic painting of neighborhood birds in Kistilano in March
+**Infographic painting of neighborhood birds in Kistilano in March**
 
 Here is a subset of 8 the 23 species that I observed in my Kitsilano neighborhood during this project. Birds are painted in locations where I commonly observed them during my 13 birding outings (8hrs 42mins total). 
 
