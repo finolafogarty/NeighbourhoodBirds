@@ -8,7 +8,7 @@ I decided that for this project, I wanted to create an infographic that was enjo
 
 I went birding in the neighbourhood, took down notes of which species I saw and how many, photographed the species that I could, noted features that I found helpful when identifying them, and recorded where I saw each species (high up in the big maple trees, on the ground in the bushes, on the tips of cherry blossom branches etc). Then, I calculated the percentage of days that I saw each species, and the average number of each species I saw on days where I saw at least one (see the "Birds" tab).  
 
-I chose 8 species to focus on for the painting and write ups (see the "Birds" tab). Out of the 8 birds in this painting, 6 are painted from photographs that I took during this project. 
+I chose 8 species to focus on for the painting and brief descriptions (see the "Birds" tab). Out of the 8 birds in this painting, 6 are painted from photographs that I took during this project. 
 
 While birding for this project, I quickly became comfortable identifying pine siskins, red-breasted nuthatches, dark-eyed juncos, northern flickers, and stellar's jays by song/call. I normally rely on my binoculars but by going out and listening to the same birds/looking things up many times in a row, I found myself confidently recording these species without having to see them. I also learned the typical behaviours of common birds and where to look for them, for example dark-eyed juncos send to be on or near the ground while pine sisking are high up in the trees. 
 
