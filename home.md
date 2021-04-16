@@ -1,6 +1,6 @@
 **Infographic painting of neighborhood birds in Kistilano in March**
 
-Here is a subset of 8 the 23 species that I observed in my Kitsilano neighborhood during this project. Birds are painted in locations where I commonly observed them during my 13 birding outings (8hrs 42mins total). 
+This project focuses on 8 the 23 species that I observed in my Kitsilano neighborhood during this project. Birds are painted in locations where I commonly observed them during my 13 birding outings (8hrs 42mins total). 
 
 I was inspired to do this project when one of my roommates described a bird to me that she had seen in a tree in our back yard. When I showed her a photo of a Northern Flicker she said "Yes that's the one! Are they rare?". I proceeded to pull up the Merlin birding app and scroll through the Western Canada list, flipping my phone around everytime I saw a common Kitsilano bird so she could see. She was pretty patient with my overenthusiasm but I could tell that this method of information delivery was pretty tedious.
 
