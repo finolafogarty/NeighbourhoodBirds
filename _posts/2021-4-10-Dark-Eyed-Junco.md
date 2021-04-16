@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test
+title: Dark-eyed Junco
 ---
 
 Sex in painting: male. Note blackish hood and brown sides. Females have greyish hoods and buffy rufous sides.
