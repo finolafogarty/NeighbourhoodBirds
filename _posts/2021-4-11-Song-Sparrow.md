@@ -13,7 +13,7 @@ Distinctive Traits: Song sparrows look like a lot of other sparrow species. Look
 
 Where to look: Look in eye-level bushes or on the ground in front of where you are walking. You will often flush these birds out before noticing the as you walk. 
 
-Something I learned about this bird: Song sparrows compete/fight with Fox Sparrows! Check out the “Favourites” tab for a photo. They were chasing each other in a bush and I snapped a brief standoff between them on the path. 
+Something I learned about this bird: Song sparrows fight with Fox Sparrows! Check out the “Favourites” tab for a photo. They were chasing each other in a bush and I snapped a brief standoff between them on the path. 
 
 ![_config.yml]({{ site.baseurl }}/images/sparrow2.jpg)
 
